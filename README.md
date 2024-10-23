@@ -8,6 +8,10 @@
 In addition to visualizing physical layouts, this GPT also assists with conceptualizing various urban scenarios. For instance, it could guide you in imagining a city designed for climate resilience, with floating platforms, water-recycling systems, and renewable energy grids integrated seamlessly into the architecture. It might also help generate a city that prioritizes sustainability, featuring vertical farms, solar-powered transportation, and eco-friendly construction materials. The key focus is on creating organized, functional, yet futuristic cities that push the boundaries of current urban design while maintaining a sense of cohesion and innovation.
 
 #
+
+![Supercity](https://github.com/user-attachments/assets/48e15b4e-ef70-42db-a08c-ec08573ebfe1)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
