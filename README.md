@@ -1,6 +1,6 @@
 ![Supercity](https://github.com/user-attachments/assets/3200722c-be7d-41a1-93b2-4903ada64b51)
 
-> Create images using DALL-E 3 with extreme super-scaling. 
+> Create images or cities using DALL-E 3 with extreme super-scaling. 
 #
 
 [Supercity](https://chatgpt.com/g/g-GnvVAV5Ac-supercity) is designed to explore and simulate the future of urbanization, focusing on the extreme scaling of cities into massive, technologically advanced environments. It helps envision how cities might evolve to accommodate vast populations, incorporating innovations in architecture, transportation, and infrastructure. For example, if you wanted to imagine a city 100 years from now, this GPT could help visualize towering mega-skyscrapers interconnected by elevated highways, flying vehicles, and green spaces built into the urban fabric. Its core purpose is to create expansive, detailed, and visionary cityscapes, whether you're thinking about futuristic residential complexes, commercial hubs, or entire city networks that stretch for miles.
