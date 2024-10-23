@@ -17,6 +17,14 @@ In addition to visualizing physical layouts, this GPT also assists with conceptu
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [Modernization](https://github.com/sourceduty/Modernization)
+<br>
+[House Design](https://github.com/sourceduty/House_Design)
+<br>
+[Property Location Expert](https://github.com/sourceduty/Property_Location_Expert)
+<br>
+[Structural Design](https://github.com/sourceduty/Structural_Design)
+<br>
+[Building Plan](https://github.com/sourceduty/Building_Plan)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
